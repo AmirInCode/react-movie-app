@@ -11,7 +11,8 @@
 - CSS Grid
 
 ## 🌐 دمو آنلاین:
-👉 [مشاهده در Vercel](https://movie-app-amir.vercel.app)
+👉 [مشاهده در Vercel](https://react-movie-app-pi-lime.vercel.app/)
 
 ## 📷 پیش‌نمایش:
-![screenshot](./screenshot.png)
+
+<img width="1898" height="871" alt="Screenshot 2025-10-29 182620" src="https://github.com/user-attachments/assets/62a62abf-1c1d-4afa-ad0f-f3b2db4bd0ee" />
